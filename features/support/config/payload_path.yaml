@@ -1,0 +1,3 @@
+cadastrar_pessoa: "features/payloads/cadastrar_pessoa/cadastrar_pessoa.json"
+cadastrar_pessoa_sem_nome: "features/payloads/cadastrar_pessoa/cadastrar_pessoa_sem_nome.json"
+alterar_pessoa: "features/payloads/alterar_pessoa/alterar_pessoa.json"
